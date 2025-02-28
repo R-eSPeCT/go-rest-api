@@ -1,5 +1,5 @@
 # go-rest-api
-# go-crud ![alt text][build_status]
+# go-crud 
 an example rest api in golang and mysql
 ## prerequisites
 - go
